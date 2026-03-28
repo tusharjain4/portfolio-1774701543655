@@ -1,0 +1,127 @@
+{
+  "name": "Pooja R. Sonar",
+  "role": "Software Developer",
+  "tagline": "Full-stack software developer specializing in MERN stack, Next.js, and innovative AI-driven applications",
+  "about": "Dedicated software developer with comprehensive expertise in full-stack web development, specializing in React, Next.js, and the MERN stack. Currently pursuing a Bachelor of Technology in Information Technology with an outstanding academic record (CGPA: 9.2). Proven experience in developing sophisticated e-commerce platforms, implementing secure authentication systems, and creating AI-powered applications. Distinguished in competitive programming with notable achievements in hackathons and innovative project competitions, demonstrating strong problem-solving capabilities and technical excellence.",
+  "experience": 1,
+  "currentRole": "SDE Intern at TABX",
+  "highlights": [
+    "Developed scalable web applications using Next.js and TypeScript",
+    "Built e-commerce platform for EV bikes with responsive design",
+    "Implemented multi-step authentication with email/OTP verification",
+    "Won 2nd place in all Goa science day innovative project competition",
+    "Secured 3rd position at GDSC ADGITM hackathon",
+    "Goa State chess player with leadership training background"
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "Java",
+        "PHP",
+        "RESTful APIs",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Database",
+      "skills": [
+        "MongoDB",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Programming",
+      "skills": [
+        "C++",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "DSA",
+        "OOP"
+      ]
+    },
+    {
+      "name": "Tools & Other",
+      "skills": [
+        "GitHub",
+        "Storybook",
+        "XML",
+        "Arduino"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AccessAI - CodeQuest",
+      "description": "Advanced AI-powered gamified coding preparation platform that transforms programming education through interactive learning experiences. Features comprehensive programming language tutorials, including specialized Solidity training for smart contract development, enhanced with AI-driven personalized assistance and dynamic coding challenges to accelerate skill development.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js"
+      ],
+      "demo": "https://access-ai-iota.vercel.app/"
+    },
+    {
+      "name": "Lilypad - 2w Ev Marketplace",
+      "description": "Comprehensive e-commerce marketplace specializing in electric vehicle bikes, featuring fully responsive design and advanced user experience. Incorporates sophisticated multi-step authentication, secure login/registration workflows with email and OTP verification, and optimized state management for seamless customer interactions.",
+      "tech": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript"
+      ],
+      "demo": "https://lilypad-2w-ev-marketplace.vercel.app/"
+    },
+    {
+      "name": "Maxiple Technology Website",
+      "description": "Professional website solution developed for a laptop repair service provider, featuring contemporary design principles and enhanced functionality. Delivered as a complete freelance project encompassing modern web standards and optimized user experience for improved business visibility and customer engagement.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js"
+      ],
+      "demo": "https://maxipleitservices.com"
+    },
+    {
+      "name": "Chess.com Backend Clone",
+      "description": "Comprehensive backend system replicating Chess.com's core functionality using the MERN stack. Features sophisticated API architecture and robust database management systems designed to support real-time chess gameplay, user authentication, game state management, and complex player interaction workflows.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Arduino Floor Cleaner",
+      "description": "Innovative autonomous floor cleaning solution engineered with Arduino microcontroller technology. Features intelligent navigation systems and wireless smartphone application control for remote operation management. Recognized with 2nd place achievement at the prestigious All Goa Science Day competition for technical innovation and practical application.",
+      "tech": [
+        "Arduino",
+        "Mobile App Development"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "poojasonar671@gmail.com",
+    "linkedin": "https://linkedin.com/in/poojasonar671",
+    "github": "https://github.com/poojasonar671"
+  }
+}
